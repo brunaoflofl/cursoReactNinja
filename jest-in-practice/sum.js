@@ -1,5 +1,6 @@
-module.exports = () => {
-    if (1 == 2){
-        return
-    }
+'use strict'
+
+export default () => {
+    return 3
+
 }
